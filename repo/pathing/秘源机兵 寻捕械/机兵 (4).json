@@ -1,0 +1,48 @@
+{
+  "info": {
+    "name": "机兵10",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "bgiVersion": "0.35.1"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 8400.6259765625,
+      "y": -1221.3720703125,
+      "action": "",
+      "move_mode": "run",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 8301.0634765625,
+      "y": -1248.59765625,
+      "action": "",
+      "move_mode": "run",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 8236.3017578125,
+      "y": -1294.552734375,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 8216.3544921875,
+      "y": -1296.962890625,
+      "action": "fight",
+      "move_mode": "run",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

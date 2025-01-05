@@ -1,0 +1,30 @@
+{
+  "info": {
+    "name": "机兵9",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "bgiVersion": "0.35.1"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 8400.615234375,
+      "y": -1221.47021484375,
+      "action": "",
+      "move_mode": "run",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 8456.78125,
+      "y": -1227.919921875,
+      "action": "fight",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

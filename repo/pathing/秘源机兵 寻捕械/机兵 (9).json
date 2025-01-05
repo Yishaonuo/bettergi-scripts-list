@@ -1,0 +1,39 @@
+{
+  "info": {
+    "name": "机兵5",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "bgiVersion": "0.35.1"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 8674.1533203125,
+      "y": -2063.3193359375,
+      "action": "",
+      "move_mode": "fly",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 8737.7021484375,
+      "y": -2096.7373046875,
+      "action": "stop_flying",
+      "move_mode": "fly",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 8806.0537109375,
+      "y": -2119.4873046875,
+      "action": "fight",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

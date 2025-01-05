@@ -1,0 +1,48 @@
+{
+  "info": {
+    "name": "机兵8",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "bgiVersion": "0.35.1"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9229.466796875,
+      "y": -1729.66552734375,
+      "action": "",
+      "move_mode": "run",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 9138.41796875,
+      "y": -1714.66845703125,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9108.767578125,
+      "y": -1746.59716796875,
+      "action": "",
+      "move_mode": "run",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9080.7802734375,
+      "y": -1751.52197265625,
+      "action": "fight",
+      "move_mode": "run",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}
