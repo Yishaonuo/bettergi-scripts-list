@@ -1,0 +1,67 @@
+{
+  "info": {
+    "name": "隙境原体1",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "bgiVersion": "0.35.1"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "fly",
+      "type": "teleport",
+      "x": 4689.400390625,
+      "y": 2429.45361328125,
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 4694.22607421875,
+      "y": 2431.61083984375,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 4774.60693359375,
+      "y": 2477.31396484375,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 4843.86474609375,
+      "y": 2495.097412109375,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 4852.89208984375,
+      "y": 2538.6240234375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 6,
+      "x": 4852.89208984375,
+      "y": 2538.6240234375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "pick_around",
+      "action_params": ""
+    }
+  ]
+}

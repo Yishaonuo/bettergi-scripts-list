@@ -1,0 +1,68 @@
+{
+  "info": {
+    "name": "隙境原体3",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "bgiVersion": "0.35.1"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 5113.65478515625,
+      "y": 2998.219970703125,
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 5086.10498046875,
+      "y": 3011.9873046875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 3,
+      "x": 5086.10498046875,
+      "y": 3011.9873046875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "pick_around",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 5088.8486328125,
+      "y": 3115.9853515625,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 5083.64990234375,
+      "y": 3143.118408203125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 6,
+      "x": 5083.64990234375,
+      "y": 3143.118408203125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "pick_around",
+      "action_params": ""
+    }
+  ]
+}

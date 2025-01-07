@@ -1,0 +1,76 @@
+{
+  "info": {
+    "name": "隙境原体4",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "bgiVersion": "0.35.1"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "run",
+      "type": "teleport",
+      "x": 5113.62255859375,
+      "y": 2998.200439453125,
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 5085.15966796875,
+      "y": 2958.561767578125,
+      "type": "path",
+      "move_mode": "run",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 5087.361328125,
+      "y": 2950.21826171875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "pick_around",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 5038.70166015625,
+      "y": 2936.43115234375,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 5034.6728515625,
+      "y": 2909.58935546875,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 5075.6201171875,
+      "y": 2866.236328125,
+      "type": "path",
+      "move_mode": "run",
+      "action": "fight",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 7,
+      "x": 5075.6201171875,
+      "y": 2866.236328125,
+      "type": "path",
+      "move_mode": "run",
+      "action": "pick_around",
+      "action_params": ""
+    }
+  ]
+}
