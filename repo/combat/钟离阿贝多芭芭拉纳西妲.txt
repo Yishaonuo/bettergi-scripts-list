@@ -2,6 +2,6 @@
 // 描述:钟离、阿贝多、芭芭拉、纳西妲
 
 钟离 s(0.2),e(hold),wait(0.3),w(0.2),q 
-阿贝多 e,wait(0.1),q 
-芭芭拉 e,q,wait(0.1),attack,attack,attack 
-纳西妲 e(hold),wait(0.2),attack,attack,attack,q 
+阿贝多 e,wait(0.05),q 
+芭芭拉 e,wait(0.05),attack(1.0),q 
+纳西妲 e(hold),wait(0.12),attack(1.1),q 
