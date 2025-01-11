@@ -1,5 +1,5 @@
 {
-  "time": "20250106232244",
+  "time": "20250111104420",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -1432,102 +1432,108 @@
           "type": "directory",
           "children": [
             {
-              "name": "鬼兜虫03-踏鞴砂(东北侧)-2个.json",
-              "type": "file",
-              "hash": "c30260aaa293f6b115304c2c3a2fa04a874756c0",
-              "version": "c30260a",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
-              ]
-            },
-            {
-              "name": "鬼兜虫05-踏鞴砂(西北侧)-7个(中途会引怪).json",
-              "type": "file",
-              "hash": "9fd89544374186d2854047c54c80874b24efa470",
-              "version": "9fd8954",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
-              ]
-            },
-            {
-              "name": "鬼兜虫06-踏鞴砂(北侧)-2个(会引怪).json",
-              "type": "file",
-              "hash": "a4ede66151fcdc0cfed91b63cd1abfe260799ad9",
-              "version": "a4ede66",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
-              ]
-            },
-            {
-              "name": "鬼兜虫08-无想刀狭间(东侧)-1个.json",
-              "type": "file",
-              "hash": "6695ccb35f58503d53fe604f34feca10f6c92584",
-              "version": "6695ccb",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
-              ]
-            },
-            {
-              "name": "鬼兜虫09-八酝岛(东南侧)-2个.json",
-              "type": "file",
-              "hash": "6ea46e033e8b6e26c4517d50f0ba51c6dcb6386b",
-              "version": "6ea46e0",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
-              ]
-            },
-            {
-              "name": "鬼兜虫10-八酝岛(西南侧)-1个.json",
-              "type": "file",
-              "hash": "6767ef974fbe5e1d937f036d99130fe45d0223c2",
-              "version": "6767ef9",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
-              ]
-            },
-            {
-              "name": "鬼兜虫11-八酝岛(中部)-1个 .json",
-              "type": "file",
-              "hash": "d549c02cc5b3612f77debd8956ca638a6b79f189",
-              "version": "d549c02",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
-              ]
-            },
-            {
-              "name": "鬼兜虫12-八酝岛(西北侧龙骨南)-1个.json",
-              "type": "file",
-              "hash": "40e273502f1fcb9a394cafe13891d2d914676c02",
-              "version": "40e2735",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
-              ]
-            },
-            {
-              "name": "鬼兜虫13-八酝岛(西北侧龙骨北)-1个.json",
-              "type": "file",
-              "hash": "363d2d78410a36f993e1f2ebd5c79596702da346",
-              "version": "363d2d7",
-              "author": "起个名字好难",
-              "description": "",
-              "tags": [
-                "鬼兜虫"
+              "name": "鬼兜虫@起个名字好难",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "鬼兜虫01-踏鞴砂(东北侧)-2个.json",
+                  "type": "file",
+                  "hash": "04c41c506762bd02f2016cf3e32373152541db7a",
+                  "version": "04c41c5",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                },
+                {
+                  "name": "鬼兜虫02-踏鞴砂(西北侧)-7个(中途会引怪).json",
+                  "type": "file",
+                  "hash": "9fd89544374186d2854047c54c80874b24efa470",
+                  "version": "9fd8954",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                },
+                {
+                  "name": "鬼兜虫03-踏鞴砂(北侧)-2个(会引怪).json",
+                  "type": "file",
+                  "hash": "a4ede66151fcdc0cfed91b63cd1abfe260799ad9",
+                  "version": "a4ede66",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                },
+                {
+                  "name": "鬼兜虫04-无想刀狭间(东侧)-1个.json",
+                  "type": "file",
+                  "hash": "6695ccb35f58503d53fe604f34feca10f6c92584",
+                  "version": "6695ccb",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                },
+                {
+                  "name": "鬼兜虫05-八酝岛(东南侧)-2个.json",
+                  "type": "file",
+                  "hash": "e4b898284851668d524472df5087b4dc63ffff5d",
+                  "version": "e4b8982",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                },
+                {
+                  "name": "鬼兜虫06-八酝岛(西南侧)-1个.json",
+                  "type": "file",
+                  "hash": "4d5026b145df19303a740004661bc73367998c94",
+                  "version": "4d5026b",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                },
+                {
+                  "name": "鬼兜虫07-八酝岛(中部)-1个 .json",
+                  "type": "file",
+                  "hash": "390c3818c5a2d2591ff334d32339a0f442c7e7d8",
+                  "version": "390c381",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                },
+                {
+                  "name": "鬼兜虫08-八酝岛(西北侧龙骨南)-1个.json",
+                  "type": "file",
+                  "hash": "260af581300be659072b3fac6b5b7f609efd5963",
+                  "version": "260af58",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                },
+                {
+                  "name": "鬼兜虫09-八酝岛(西北侧龙骨北)-1个.json",
+                  "type": "file",
+                  "hash": "23c36994d5b25e99807e1a05a69b53181a6a93bd",
+                  "version": "23c3699",
+                  "author": "起个名字好难",
+                  "description": "",
+                  "tags": [
+                    "鬼兜虫"
+                  ]
+                }
               ]
             },
             {
@@ -1537,8 +1543,8 @@
                 {
                   "name": "鬼兜虫01-稻妻城山洞-6个(纳西妲).json",
                   "type": "file",
-                  "hash": "ee2869b8dc1f626510152fd22cb635b05ef9ce0e",
-                  "version": "ee2869b",
+                  "hash": "1a6277efa547e1f505621bd1a1f31af05e18dd5b",
+                  "version": "1a6277e",
                   "author": "起个名字好难",
                   "description": "",
                   "tags": [
@@ -1547,7 +1553,7 @@
                   ]
                 },
                 {
-                  "name": "鬼兜虫02-鸣神大社-6个(纳西妲、地图缩放1.8).json",
+                  "name": "鬼兜虫02-鸣神大社-6个(纳西妲).json",
                   "type": "file",
                   "hash": "b71853c67e7eb9296a17e3b9d4bb8daa5b22d0d4",
                   "version": "b71853c",
@@ -1597,8 +1603,8 @@
                 {
                   "name": "鬼兜虫06-踏鞴砂(公义)-1个(纳西妲).json",
                   "type": "file",
-                  "hash": "935538f6e1d4d389fbedb1f601f5703726c987b1",
-                  "version": "935538f",
+                  "hash": "58e66a3eba0193986a6db4a689e3a0513a080496",
+                  "version": "58e66a3",
                   "author": "起个名字好难",
                   "description": "",
                   "tags": [
@@ -12418,6 +12424,28 @@
           "type": "directory",
           "children": [
             {
+              "name": "大灵显化身-凛冽-镜璧山-2.json",
+              "type": "file",
+              "hash": "fdf92d084580b25f71d7308fb9574a2ff8f17eb7",
+              "version": "fdf92d0",
+              "author": "起个名字好难的喵",
+              "description": "",
+              "tags": [
+                "大灵显化身"
+              ]
+            },
+            {
+              "name": "大灵显化身-凛冽-镜璧山.json",
+              "type": "file",
+              "hash": "6f8991d35bee3b75e51a3af1cdeddfd8164d8f2f",
+              "version": "6f8991d",
+              "author": "起个名字好难的喵",
+              "description": "",
+              "tags": [
+                "大灵显化身"
+              ]
+            },
+            {
               "name": "大灵显化身-溯流-彩石顶.json",
               "type": "file",
               "hash": "9f0e2c002b8d3b23c6ed90ecd36e7d35f7346fb7",
@@ -12433,6 +12461,17 @@
               "type": "file",
               "hash": "febd333f320352ea0f551a2340155c025186d9d8",
               "version": "febd333",
+              "author": "起个名字好难的喵",
+              "description": "",
+              "tags": [
+                "大灵显化身"
+              ]
+            },
+            {
+              "name": "大灵显化身-焚燃-奥奇卡纳塔.json",
+              "type": "file",
+              "hash": "2add2d013e458698a586dd5d9bf853d13a6469b1",
+              "version": "2add2d0",
               "author": "起个名字好难的喵",
               "description": "",
               "tags": [
@@ -12488,6 +12527,17 @@
               "type": "file",
               "hash": "5831a965033520861887620c2eb780a25985b170",
               "version": "5831a96",
+              "author": "起个名字好难的喵",
+              "description": "",
+              "tags": [
+                "大灵显化身"
+              ]
+            },
+            {
+              "name": "大灵显化身-窟岩-坚岩隘谷.json",
+              "type": "file",
+              "hash": "87e2a818c7923f9050909019fbf49d2087ae28d2",
+              "version": "87e2a81",
               "author": "起个名字好难的喵",
               "description": "",
               "tags": [
@@ -13000,6 +13050,304 @@
               "description": "",
               "tags": [
                 "风役人"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "枫丹钓鱼点位",
+          "type": "directory",
+          "children": [
+            {
+              "name": "枫丹-卡布南钓点.json",
+              "type": "file",
+              "hash": "ab67948a9d708fb55b232b44b7830d62dce9d5b3",
+              "version": "ab67948",
+              "author": "龙弗山权",
+              "description": "枫丹-卡布南钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-厄里那斯南.json",
+              "type": "file",
+              "hash": "6223749b021123478b34bfc475cedd606c41f7dd",
+              "version": "6223749",
+              "author": "龙弗山权",
+              "description": "枫丹-歌剧院钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-厄里那斯右上钓点.json",
+              "type": "file",
+              "hash": "b464fcb91f63bf2d0e28d76f37ca406d2bbb7e5b",
+              "version": "b464fcb",
+              "author": "龙弗山权",
+              "description": "枫丹-厄里那斯右上钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-厄里那斯右下钓点.json",
+              "type": "file",
+              "hash": "06abc1b33c7d8216400260f1800d30f44cd8a6aa",
+              "version": "06abc1b",
+              "author": "龙弗山权",
+              "description": "枫丹-厄里那斯右下钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-实验室钓点.json",
+              "type": "file",
+              "hash": "c585f9e3acf5506d90b216950180f2924fa5bb14",
+              "version": "c585f9e",
+              "author": "龙弗山权",
+              "description": "枫丹-实验室钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-幽林南钓点.json",
+              "type": "file",
+              "hash": "77ef6370e624949f30edf9230a8860060722fa63",
+              "version": "77ef637",
+              "author": "龙弗山权",
+              "description": "枫丹-幽林南钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-歌剧院钓点.json",
+              "type": "file",
+              "hash": "2b64ee7879b191d1d4ff360078f5e0271417a6ac",
+              "version": "2b64ee7",
+              "author": "龙弗山权",
+              "description": "枫丹-歌剧院钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-白淞镇钓点.json",
+              "type": "file",
+              "hash": "7cf0d131a52d0d5828ef4005abdc3bc7707e77b6",
+              "version": "7cf0d13",
+              "author": "龙弗山权",
+              "description": "枫丹-白淞镇钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-秋分山北钓点.json",
+              "type": "file",
+              "hash": "c49d95f783aadf61831f0ec6d18d7df383082e89",
+              "version": "c49d95f",
+              "author": "龙弗山权",
+              "description": "枫丹-秋分山北",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            },
+            {
+              "name": "枫丹-芒索斯山东钓点.json",
+              "type": "file",
+              "hash": "c49a1d171a177f6c57d3c09abef0332dcfd69479",
+              "version": "c49a1d1",
+              "author": "龙弗山权",
+              "description": "枫丹-芒索斯山东钓点",
+              "tags": [
+                "枫丹钓鱼点位"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "秘源机兵",
+          "type": "directory",
+          "children": [
+            {
+              "name": "万火之瓶.json",
+              "type": "file",
+              "hash": "79851a993629e4ff7aab8a349845a66c8c0d8c78",
+              "version": "79851a9",
+              "author": "jsp",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "两个怪.json",
+              "type": "file",
+              "hash": "39fecbe111c1a2900407eb67740e78b728de5e71",
+              "version": "39fecbe",
+              "author": "jsp",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "两个怪2 2.json",
+              "type": "file",
+              "hash": "ad51a63904a51c473fbfd3412af51933fd731773",
+              "version": "ad51a63",
+              "author": "jsp",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "两个怪谨慎打.json",
+              "type": "file",
+              "hash": "20b12e51aa19b09dcb071647981e541a21147ad1",
+              "version": "20b12e5",
+              "author": "jsp",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "圣火竞技场.json",
+              "type": "file",
+              "hash": "cc1073ab3c98367468eaf1f1e8b75c911e671a88",
+              "version": "cc1073a",
+              "author": "Shell",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "坚岩毅谷.json",
+              "type": "file",
+              "hash": "07b8a480b7b6f5973e7d7fc2935e96b9c83add5d",
+              "version": "07b8a48",
+              "author": "jsp",
+              "description": "坚岩毅谷",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "坚岩毅谷2.json",
+              "type": "file",
+              "hash": "36caa41f62de1f1f8bfb0e36dd4721dc5bcd2090",
+              "version": "36caa41",
+              "author": "jsp",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "奥奇卡纳塔01.json",
+              "type": "file",
+              "hash": "f61c96ae6bf3420a19951f09bf72ba58a9a81b8f",
+              "version": "f61c96a",
+              "author": "Shell",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "彩石顶.json",
+              "type": "file",
+              "hash": "2763bde09bf828659d520e52f13b38878c66c224",
+              "version": "2763bde",
+              "author": "Shell",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "悬木人西.json",
+              "type": "file",
+              "hash": "0e9c4d0f2fc1f331673761bad4050f605a415f96",
+              "version": "0e9c4d0",
+              "author": "Shell",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "柴薪之丘-南.json",
+              "type": "file",
+              "hash": "1831a8896eb97fa8fb790fa75dd5076ba199eac8",
+              "version": "1831a88",
+              "author": "Shell",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "流泉之众-南.json",
+              "type": "file",
+              "hash": "5af2c911962ee35074121dc4ca736ef9b73acdb5",
+              "version": "5af2c91",
+              "author": "Shell",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "溶水域 .json",
+              "type": "file",
+              "hash": "f7911a00c65bb1df9da7a9f45b8b5701e81893f2",
+              "version": "f7911a0",
+              "author": "Shell",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "火之瓶2 (1).json",
+              "type": "file",
+              "hash": "ba0b6f79659ab4a9a33a55ed4da30373661f4046",
+              "version": "ba0b6f7",
+              "author": "jsp",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "火瓶3.json",
+              "type": "file",
+              "hash": "c0f84f109b1aa8413c0339a3c6f744bc95bf843b",
+              "version": "c0f84f1",
+              "author": "jsp",
+              "description": "",
+              "tags": [
+                "秘源机兵"
+              ]
+            },
+            {
+              "name": "硫晶支脉-北.json",
+              "type": "file",
+              "hash": "880ea17c2c382f69721d0fb4be538720577db62d",
+              "version": "880ea17",
+              "author": "Shell",
+              "description": "",
+              "tags": [
+                "秘源机兵"
               ]
             }
           ]
@@ -14414,6 +14762,15 @@
           "tags": []
         },
         {
+          "name": "BeginFish",
+          "type": "directory",
+          "hash": "451a68242cdc1e9aea614d14dfdf5c791983a986",
+          "version": "1.0",
+          "author": "龙弗山权",
+          "description": "开始钓鱼~|~开始钓鱼",
+          "tags": []
+        },
+        {
           "name": "Collect Dongtian Xuyu Resin",
           "type": "directory",
           "hash": "97dabf44b35ac89fecca034f01db10e8cde7339f",
@@ -14465,6 +14822,15 @@
           "version": "1.0",
           "author": "HZYgrandma",
           "description": "领取历练点~|~用于领取历练点",
+          "tags": []
+        },
+        {
+          "name": "EndFish",
+          "type": "directory",
+          "hash": "d82b68e89944f7976a5612460d3ecda86e15270c",
+          "version": "1.0",
+          "author": "龙弗山权",
+          "description": "结束钓鱼~|~结束钓鱼",
           "tags": []
         },
         {
@@ -14990,6 +15356,20 @@
           ]
         },
         {
+          "name": "仆夜茜班.txt",
+          "type": "file",
+          "hash": "a9ac2328a28a6db830627e05373152519620087c",
+          "version": "a9ac232",
+          "author": "",
+          "description": "",
+          "tags": [
+            "仆人",
+            "茜特菈莉",
+            "夜兰",
+            "班尼特"
+          ]
+        },
+        {
           "name": "仆班莱夜(增加存活).txt",
           "type": "file",
           "hash": "bc14c434f2931c18c893d67538c86f493b1af9f0",
@@ -15128,6 +15508,30 @@
             "夜兰",
             "芙宁娜",
             "心海"
+          ]
+        },
+        {
+          "name": "挂机流锄地带万叶[请看文件内说明].txt",
+          "type": "file",
+          "hash": "78246f66be9346e067d459a067fc3f0318429611",
+          "version": "78246f6",
+          "author": "J_an",
+          "description": "盾（钟离/茜特菈莉/莱依拉/绮良良/迪奥娜/白术）、自动攻击（芙宁娜/玛薇卡/菲谢尔/久岐忍/八重神子）和协同攻击（纳西妲/雷电将军）选二、万叶",
+          "tags": [
+            "钟离",
+            "茜特菈莉",
+            "莱依拉",
+            "绮良良",
+            "迪奥娜",
+            "白术",
+            "芙宁娜",
+            "玛薇卡",
+            "菲谢尔",
+            "久岐忍",
+            "八重神子",
+            "万叶",
+            "纳西妲",
+            "雷电将军"
           ]
         },
         {
@@ -15522,6 +15926,20 @@
             "钟离",
             "那维莱特",
             "枫原万叶"
+          ]
+        },
+        {
+          "name": "钟万胡茜.txt",
+          "type": "file",
+          "hash": "96e3e1146a53ce69f8c478f594de354c8bc8d942",
+          "version": "96e3e11",
+          "author": "FEiiL",
+          "description": "建议一命以上胡桃,钟离血量大于5w,奶奶和万叶不作特别要求;特别适用于虹灵的净土副本;手法参考自\"爱司基模人\"",
+          "tags": [
+            "钟离",
+            "茜特菈莉",
+            "万叶",
+            "胡桃"
           ]
         },
         {
